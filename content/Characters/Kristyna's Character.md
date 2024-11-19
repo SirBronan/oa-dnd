@@ -1,3 +1,8 @@
+---
+title: Kristyna's Character
+draft: 
+tags:
+---
 # Basic Information
 
 Player: Kristyna

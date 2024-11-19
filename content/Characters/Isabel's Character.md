@@ -1,4 +1,8 @@
-
+---
+title: Isabel's Character
+draft: 
+tags:
+---
 # Basic Information
 
 Player: Isabel

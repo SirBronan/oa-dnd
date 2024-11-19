@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Landing Page
 ---
 Welcome to Outdoor Adventures the Dungeons and Dragons Main Page! This website will serve as the primary location for notetaking, reference, and other important information. Below are some links to character sheets, other relevant landing pages, and more. Enjoy! 
 

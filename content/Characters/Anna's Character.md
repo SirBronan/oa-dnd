@@ -5,15 +5,11 @@ tags:
 ---
 # Basic Information
 
-Player: Anna
-
-Class: [[Sorcerer]]
-
-Subclass: [[Draconic Bloodline]]
-
-Race: [[Human]]
-
-Alignment: 
+- Player: Anna
+- Class: [[Sorcerer]]
+- Subclass: [[Draconic Bloodline]]
+- Race: [[Human]]
+- Alignment: 
 
 # Backstory 
 

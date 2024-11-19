@@ -1,5 +1,3 @@
 ---
 title: Dragon
-draft: 
-tags:
 ---

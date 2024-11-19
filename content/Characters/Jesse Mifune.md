@@ -1,7 +1,5 @@
 ---
 title: Jesse Mifune
-draft: 
-tags:
 ---
 # Basic Information
 Player: Ronan 

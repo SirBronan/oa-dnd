@@ -1,5 +1,3 @@
 ---
 title: Human
-draft: 
-tags:
 ---

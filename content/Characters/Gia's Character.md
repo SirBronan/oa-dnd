@@ -1,7 +1,5 @@
 ---
 title: Gia's Character
-draft: 
-tags:
 ---
 # Basic Information
 - Player: Gia

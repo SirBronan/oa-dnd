@@ -1,5 +1,3 @@
 ---
 title: Fairy
-draft: 
-tags:
 ---

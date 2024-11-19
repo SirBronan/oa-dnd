@@ -1,5 +1,3 @@
 ---
-title: 
-draft: 
-tags:
+title:
 ---

@@ -1,7 +1,5 @@
 ---
 title: Ryan's Character
-draft: 
-tags:
 ---
 # Basic Information
 Player: Ryan

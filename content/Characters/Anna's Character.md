@@ -1,7 +1,5 @@
 ---
 title: Anna's Character
-draft: false
-tags:
 ---
 # Basic Information
 

@@ -1,5 +1,3 @@
 ---
 title: Tortle
-draft: 
-tags:
 ---

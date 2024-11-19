@@ -4,13 +4,11 @@ draft:
 tags:
 ---
 # Basic Information
-
 Player: Kam
 Class: 
 Subclass: 
 Race: 
 Alignment: 
-
 # Backstory 
 
 

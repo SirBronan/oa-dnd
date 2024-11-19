@@ -4,13 +4,11 @@ draft:
 tags:
 ---
 # Basic Information
-
 Player: Ryan
 Class: 
 Subclass: 
 Race: 
 Alignment: 
-
 # Backstory 
 
 

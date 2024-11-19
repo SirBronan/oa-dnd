@@ -2,15 +2,15 @@
 title: Jesse Mifune
 ---
 # Basic Information
-Player: Ronan 
-Class: [[Ranger]]
-Subclass: [[Desperado]]
-Race: [[Variant Human]]
-Alignment: [[Neutral Good]]
+- Player: Ronan 
+- Class: [[Ranger]]
+- Subclass: [[Desperado]]
+- Race: [[Variant Human]]
+- Alignment: [[Neutral Good]]
 # Backstory 
 
 
-# Important Plot Points
+# Ongoing Plot
 
 
 # Character Connections 

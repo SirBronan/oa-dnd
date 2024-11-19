@@ -10,7 +10,7 @@ title: Gia's Character
 # Backstory 
 
 
-# Important Plot Points
+# Ongoing Plot
 
 
 # Character Connections

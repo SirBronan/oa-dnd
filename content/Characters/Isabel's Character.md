@@ -10,7 +10,7 @@ title: Isabel's Character
 # Backstory 
 
 
-# Important Plot Points
+# Ongoing Plot
 
 
 # Character Connections 

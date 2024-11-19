@@ -2,15 +2,15 @@
 title: Kristyna's Character
 ---
 # Basic Information
-Player: Kristyna
-Class: [[Warlock]]
-Subclass: [[Fiend Pact]]
-Race: [[Fairy]]
-Alignment: 
+- Player: Kristyna
+- Class: [[Warlock]]
+- Subclass: [[Fiend Pact]]
+- Race: [[Fairy]]
+- Alignment: 
 # Backstory 
 
 
-# Important Plot Points
+# Ongoing Plot
 
 
 # Character Connections 

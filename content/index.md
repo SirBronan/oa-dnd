@@ -16,6 +16,3 @@ This party, currently unnamed, consists of the following character
 # Session Notes
 
 This is where session notes will go.
-
-# Map of Arendor
-![[Map_of_Arendor.png]]

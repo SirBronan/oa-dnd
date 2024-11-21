@@ -1,16 +1,21 @@
 ---
 title: Anna's Character
+draft: false
+tags:
 ---
 # Basic Information
-- Player: Anna
-- Class: [[Sorcerer]]
-- Subclass: [[Draconic Bloodline]]
-- Race: [[Human]]
-- Alignment: 
+
+Player: Anna  
+Class: [[Sorcerer]]  
+Subclass: [[Draconic Bloodline]]  
+Race: [[Human]]  
+Alignment:   
+
+
 # Backstory 
 
 
-# Ongoing Plot
+# Important Plot Points
 
 
 # Character Connections

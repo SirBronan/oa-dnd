@@ -1,0 +1,1 @@
+A vast empire that has been consistently growing for the past three hundred and fifty years. Approximately one hundred years ago they conquered the [[Julian Empire]], and gained a large swath of territory. Today this land is mostly used for agriculture, but has become a major source of military strength against the Empire's on-going war with [[Dracenia]]. 
